@@ -1,4 +1,12 @@
-﻿using System;
+/* Overloading ile ilgili ilk örneğimiz:
+###1. Matematiksel İşlemleri Çeşitlendiren Bir Fonksiyon
+- Aynı adla ama farklı parametrelerle toplam işlemi yapacak,
+- İlk sürümü iki tam sayıyı toplasın,
+- İkinci sürümü üç tam sayıyı toplasın,
+- Üçüncü sürümü bir dizi (array) tam sayıyı toplasın.
+*/
+
+using System;
 
 class Program
 {
