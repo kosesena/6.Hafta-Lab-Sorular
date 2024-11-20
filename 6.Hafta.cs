@@ -48,9 +48,11 @@ class Program
         Console.WriteLine("Dizideki sayıların toplamı: " + Sum(numbers));
     }
 }
+
 /* 
 Çıktı:    İki sayının toplamı: 15
           Üç sayının toplamı: 30
           Dizideki sayıların toplamı: 15
 */
+
 /* Bu soruda üç farklı Sum fonksiyonunu overload edip yazdırdık. */
