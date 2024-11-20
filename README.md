@@ -1,0 +1,1 @@
+# 6.Hafta-Lab-Sorular
