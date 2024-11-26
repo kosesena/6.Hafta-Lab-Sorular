@@ -1,4 +1,13 @@
-﻿using System;
+/*
+4. Çok Katmanlı Bir Otopark Sistemi
+Bir sınıf oluşturun:
+ Her katmanda bir dizi park yerini temsil etsin.
+ Kullanıcı, indeksleyici aracılığıyla belirli bir kat ve park yeri kombinasyonuna
+erişebilsin.
+ Park yeri boşsa &quot;Empty&quot; döndürsün, doluysa araç plakasını göstersin.
+*/
+
+using System;
 
 public class Otopark
 {
