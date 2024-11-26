@@ -1,10 +1,11 @@
-/*Tek Boyutlu ve Çift Boyutlu İndeksleyiciler
+/*
 1. Özel Bir Kitaplık Yönetim Sistemi
 Bir sınıf oluşturun:
  Sınıf, bir kitap koleksiyonunu (dizi) depolasın.
  Kullanıcı, indeksleyici aracılığıyla belirli bir indekste hangi kitabın olduğunu
 öğrenebilsin ve kitap adını değiştirebilsin.
- Eğer kullanıcı geçersiz bir indeks ile erişim yaparsa uygun bir hata mesajı döndürsün. */
+ Eğer kullanıcı geçersiz bir indeks ile erişim yaparsa uygun bir hata mesajı döndürsün. 
+*/
 
 using System;
 
