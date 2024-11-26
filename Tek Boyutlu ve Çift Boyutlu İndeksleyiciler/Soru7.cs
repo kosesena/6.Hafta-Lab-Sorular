@@ -65,9 +65,9 @@ public class Program
         Otopark otopark = new Otopark(3, 5); // 3 katlı, her katta 5 park yeri
 
         // Araç ekleme
-        otopark[0, 0] = "34ABC123"; // 1. katta 1. park yerine araç koy
-        otopark[1, 2] = "06XYZ456"; // 2. katta 3. park yerine araç koy
-        otopark[2, 4] = "35LMN789"; // 3. katta 5. park yerine araç koy
+        otopark[0, 0] = "34 SK 5434"; // 1. katta 1. park yerine araç koy
+        otopark[1, 2] = "34 AK 5434"; // 2. katta 3. park yerine araç koy
+        otopark[2, 4] = "34 ZK 5434"; // 3. katta 5. park yerine araç koy
 
         // Otopark durumu yazdırma
         otopark.OtoparkDurumu();
