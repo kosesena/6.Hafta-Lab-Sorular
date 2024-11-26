@@ -1,4 +1,11 @@
-﻿using System;
+/*
+3. Çalışan Rolleri ve Maaş Hesaplama
+Bir enum oluşturun:
+ Çalışan rolleri (Manager, Developer, Designer, Tester) için maaşları belirlemek üzere.
+ Enum’a göre maaşı hesaplayan bir metot yazın.
+*/
+
+using System;
 
 public enum CalisanRol
 {
