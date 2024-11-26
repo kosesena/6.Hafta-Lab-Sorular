@@ -1,4 +1,11 @@
-﻿using System;
+/* 2. Bir Öğrenci Not Sistemi
+Bir sınıf oluşturun:
+ Öğrencilerin aldığı derslerin notlarını depolasın.
+ Kullanıcı indeksleyici aracılığıyla ders adına göre notlara erişebilsin.
+ Eğer ders yoksa bir hata mesajı döndürsün. */
+
+using System;
+
 using System.Collections.Generic;
 
 public class OgrenciNotSistemi
