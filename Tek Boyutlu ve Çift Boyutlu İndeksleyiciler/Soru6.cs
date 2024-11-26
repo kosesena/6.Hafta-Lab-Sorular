@@ -1,4 +1,14 @@
-﻿using System;
+/*
+3. Bir Satranç Tahtası Durumu
+Bir sınıf oluşturun:
+ Satranç tahtasındaki her bir kareyi temsil etsin.
+
+ Kullanıcı, indeksleyici aracılığıyla bir kareye taş koyabilsin ya da taşın ne olduğunu
+öğrenebilsin.
+ Eğer kullanıcı geçersiz bir kareye erişmeye çalışırsa bir hata mesajı döndürsün.
+*/
+
+using System;
 
 public class SatrancTahtasi
 {
