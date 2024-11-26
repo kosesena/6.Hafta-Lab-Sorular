@@ -1,4 +1,12 @@
-﻿using System;
+/*
+2. Karmaşık Sayı Hesaplama
+Bir struct oluşturun:
+ Karmaşık sayıları temsil etsin (Real ve Imaginary özellikleri).
+ Toplama ve çıkarma işlemlerini gerçekleştiren iki metot ekleyin.
+ Sonucu (a + bi) formatında döndüren bir ToString() metodu yazın.
+*/
+
+using System;
 
 public struct KarmasikSayi
 {
