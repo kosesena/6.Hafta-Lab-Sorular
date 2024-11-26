@@ -1,8 +1,10 @@
-/* 2. Bir Öğrenci Not Sistemi
+/* 
+2. Bir Öğrenci Not Sistemi
 Bir sınıf oluşturun:
  Öğrencilerin aldığı derslerin notlarını depolasın.
  Kullanıcı indeksleyici aracılığıyla ders adına göre notlara erişebilsin.
- Eğer ders yoksa bir hata mesajı döndürsün. */
+ Eğer ders yoksa bir hata mesajı döndürsün. 
+*/
 
 using System;
 
