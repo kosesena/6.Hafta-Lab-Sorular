@@ -1,4 +1,11 @@
-﻿using System;
+/*
+1. Trafik Işığı Durumu
+Bir enum oluşturun:
+ Trafik ışıkları (Red, Yellow, Green) için durumları temsil etsin.
+ Bir sınıf oluşturun ve enum’a göre hangi durumda ne yapılması gerektiğini döndüren bir metot yazın.
+*/
+
+using System;
 
 public enum TrafikIsigi
 {
