@@ -4,7 +4,7 @@ Bir sınıf oluşturun:
  Her katmanda bir dizi park yerini temsil etsin.
  Kullanıcı, indeksleyici aracılığıyla belirli bir kat ve park yeri kombinasyonuna
 erişebilsin.
- Park yeri boşsa &quot;Empty&quot; döndürsün, doluysa araç plakasını göstersin.
+ Park yeri boşsa "Empty" döndürsün, doluysa araç plakasını göstersin.
 */
 
 using System;
