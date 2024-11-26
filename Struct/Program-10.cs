@@ -1,4 +1,11 @@
-﻿using System;
+/*
+3. GPS Konum Mesafesi
+Bir struct oluşturun:
+ Enlem ve boylam (Latitude ve Longitude) bilgilerini tutsun.
+ İki GPS konumu arasındaki mesafeyi kilometre olarak hesaplayan bir metot ekleyin (Haversine Formülü).
+*/
+
+using System;
 
 public struct GPSKonum
 {
