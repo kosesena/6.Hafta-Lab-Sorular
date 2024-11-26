@@ -1,4 +1,11 @@
-﻿using System;
+/*
+2. Hava Durumu Tahmini
+Bir enum oluşturun:
+ Hava durumu tiplerini (Sunny, Rainy, Cloudy, Stormy) temsil etsin.
+ Enum’a göre tavsiye veren bir metot yazın (örneğin, yağmurluysa şemsiye alın).
+*/
+
+using System;
 
 public enum HavaDurumu
 {
