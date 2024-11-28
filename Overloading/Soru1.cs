@@ -1,6 +1,6 @@
 
 /* 
-Matematiksel işlemleri çeşitlendiren bir fonksiyon yazmamız bekleniyor.Fonksiyonun özellikleri:
+1.Matematiksel işlemleri çeşitlendiren bir fonksiyon yazmamız bekleniyor.Fonksiyonun özellikleri:
 
 -Aynı adla ama farklı parametrelerle toplam işlemi yapacak
 -İlk sürümü iki tam sayıyı toplasın
