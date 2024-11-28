@@ -1,3 +1,12 @@
+/*
+3. Zaman Farkını Farklı Formatlarda Hesaplama
+Bir fonksiyon yazın:
+ Aynı adla ama farklı parametrelerle iki tarih arasındaki farkı hesaplasın.
+ İlk sürüm, gün cinsinden farkı döndürsün.
+ İkinci sürüm, saat cinsinden farkı döndürsün.
+ Üçüncü sürüm, iki tarih arasında yıl, ay ve gün cinsinden farkı ayrı ayrı döndürsün.
+*/
+
 using System;
 
 class Program
