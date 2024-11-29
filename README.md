@@ -60,8 +60,7 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 	•	Enlem (Latitude) ve boylam (Longitude) bilgilerini tutan bir struct oluşturun.
 	•	İki GPS konumu arasındaki mesafeyi kilometre cinsinden hesaplayan bir metot ekleyin.
 	•	Mesafe hesaplama için Haversine Formülü kullanın.
- 7. Matematiksel İşlemler Fonksiyonu
-### 7. Matematiksel İşlemler
+ ### 7. Matematiksel İşlemler Fonksiyonu
 	•	Konu: Matematiksel işlemleri çeşitlendiren bir fonksiyon tasarımı.
 	•	Gereklilikler:
 	•	Aynı adla ama farklı parametrelerle toplama işlemi yapacak.
