@@ -70,4 +70,14 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 	•	İlk sürüm: İki tam sayıyı topla.
 	•	İkinci sürüm: Üç tam sayıyı topla.
 	•	Üçüncü sürüm: Bir dizi (array) tam sayıyı topla.
+
+ ### 8. Farklı Şekillerin Alanını Hesaplayan Fonksiyon
+
+
+	• Method Overloading Kullanımı:
+Aynı isimli bir metot, farklı parametre kombinasyonları ile farklı şekillerin alanını hesaplar.
+	•	Hesaplama Fonksiyonları:
+	•	Kare Alanı: Bir kenar uzunluğu verilerek karenin alanı hesaplanır.
+	•	Dikdörtgen Alanı: İki kenar uzunluğu verilerek dikdörtgenin alanı hesaplanır.
+	•	Daire Alanı: Yarıçap verilerek dairenin alanı hesaplanır.
  
