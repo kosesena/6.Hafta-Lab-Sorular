@@ -3,7 +3,7 @@ Bu repo,Nesne Yönelimli Programlama dersinin 6. hafta laboratuvar çalışmalar
 
 ### 1.⁠ ⁠Trafik Işığı Durumu
 
-	•	Konu: Trafik ışıklarının (Red, Yellow, Green) durumlarını temsil eden bir **enum** oluşturulması.
+	•	Konu: Trafik ışıklarının (Red, Yellow, Green) durumlarını temsil eden bir *enum* oluşturulması.
 	•	Gereklilikler:
 	•	Trafik ışığı durumlarını temsil eden bir enum oluşturun.
 	•	Enum değerine göre yapılması gereken işlemi döndüren bir metot yazın.
