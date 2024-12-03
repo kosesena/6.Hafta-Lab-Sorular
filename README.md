@@ -94,7 +94,7 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 
  ### 10.⁠ ⁠Özel Bir Kütüphane Yönetim Sistemi
 
-        •      Konu: Kitap koleksiyonlarını temsil eden bir sınıf oluşturun.
+        •       Konu: Kitap koleksiyonlarını temsil eden bir sınıf oluşturun.
 
         •       Gereklilikler:
 	•	Kitap koleksiyonunu bir dizi aracılığıyla depolayınız.
