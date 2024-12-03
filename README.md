@@ -73,41 +73,41 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 
  ### 8. Farklı Şekillerin Alanını Hesaplayan Fonksiyon
 
-        •       Konu: Farklı şekillerin alanını hesaplayan fonksiyon tasarımı.
-        •       Gereklilikler:
-        •       Aynı isimli bir metot, farklı parametre kombinasyonları ile farklı şekillerin alanını hesaplar.
-	•	Hesaplama Fonksiyonları:
-	•	Kare Alanı: Bir kenar uzunluğu verilerek karenin alanı hesaplanır.
-	•	Dikdörtgen Alanı: İki kenar uzunluğu verilerek dikdörtgenin alanı hesaplanır.
-	•	Daire Alanı: Yarıçap verilerek dairenin alanı hesaplanır.
+        •       Konu: Farklı şekillerin alanını hesaplayan fonksiyon tasarımı.  
+        •       Gereklilikler:  
+        •       Aynı isimli bir metot, farklı parametre kombinasyonları ile farklı şekillerin alanını hesaplar.  
+	•	Hesaplama Fonksiyonları:  
+	•	Kare Alanı: Bir kenar uzunluğu verilerek karenin alanı hesaplanır.  
+	•	Dikdörtgen Alanı: İki kenar uzunluğu verilerek dikdörtgenin alanı hesaplanır.  
+	•	Daire Alanı: Yarıçap verilerek dairenin alanı hesaplanır.  
 	
  ### 9. Zaman Farkını Farklı Formatlarda Hesaplayan Fonksiyon 
 
-        •       Konu: Zaman farkını farklı formatlarda hesaplayan fonksiyon tasarımı.
-        •       Gereklilikler:
-	•	Aynı ada sahip ancak farklı parametrelerle çalışan birden fazla fonksiyon yazılacaktır.
-        •       İlk sürüm: İki tarih arasındaki gün farkını döndüren bir fonksiyon.
-	•	İkinci sürüm: İki tarih arasındaki saat farkını döndüren bir fonksiyon.
-	•	Üçüncü sürüm: İki tarih arasındaki yıl farkını döndüren bir fonksiyon.
+        •       Konu: Zaman farkını farklı formatlarda hesaplayan fonksiyon tasarımı.  
+        •       Gereklilikler:  
+	•	Aynı ada sahip ancak farklı parametrelerle çalışan birden fazla fonksiyon yazılacaktır.  
+        •       İlk sürüm: İki tarih arasındaki gün farkını döndüren bir fonksiyon.  
+	•	İkinci sürüm: İki tarih arasındaki saat farkını döndüren bir fonksiyon.  
+	•	Üçüncü sürüm: İki tarih arasındaki yıl farkını döndüren bir fonksiyon.  
  
  ### 10. Özel Bir Kütüphane Yönetim Sistemi
 
-•⁠  ⁠*Konu:*  
-  • Kitap koleksiyonlarını temsil eden bir sınıf oluşturun.
+  •⁠ Konu:  
+  • Kitap koleksiyonlarını temsil eden bir sınıf oluşturun.  
 
-•⁠  ⁠*Gereklilikler:*  
+  •⁠ ⁠Gereklilikler:   
   • Kitap koleksiyonunu bir dizi aracılığıyla depolayınız.  
-  • Kullanıcı, indeksleyici aracılığıyla kitap adı öğrenebilmeli veya değiştirebilmelidir.  
-  • Kullanıcı geçersiz bir indeksle erişim yaparsa uygun bir hata mesajı döndürülmelidir.  
+  • Kullanıcı, indeksleyici aracılığıyla kitap adı öğrenebilmeli veya değiştirebilmelidir.    
+  • Kullanıcı geçersiz bir indeksle erişim yaparsa uygun bir hata mesajı döndürülmelidir.    
 
 ---
 
 ### 11. Bir Öğrenci Not Sistemi
 
-•⁠  ⁠*Konu:*  
+  •⁠ ⁠Konu:
   • Öğrencilerin aldığı derslerin notlarını temsil eden bir sınıf oluşturun.
 
-•⁠  ⁠*Gereklilikler:*  
+  •⁠ Gereklilikler:
   • Derslerin adını ve notlarını depolayan bir yapı oluşturulmalıdır.  
   • Kullanıcı, indeksleyici aracılığıyla ders adına göre notlara erişebilmelidir.  
   • Ders bulunamadığında uygun bir hata mesajı döndürülmelidir.  
@@ -116,10 +116,10 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 
 ### 12. Bir Satranç Tahtası Durumu
 
-•⁠  ⁠*Konu:*  
+  •⁠  Konu: 
   • Satranç tahtasındaki kareleri temsil eden bir sınıf oluşturun.
 
-•⁠  ⁠*Gereklilikler:*  
+  •⁠ ⁠Gereklilikler:
   • 8x8 boyutunda bir satranç tahtası oluşturulmalıdır.  
   • Kullanıcı, indeksleyici aracılığıyla bir kareye taş koyabilmeli veya karedeki taşı öğrenebilmelidir.  
   • Geçersiz bir kareye erişimde uygun bir hata mesajı döndürülmelidir.  
@@ -128,10 +128,10 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 
 ### 13. Çok Katmanlı Bir Otopark Sistemi
 
-•⁠  ⁠*Konu:*  
+  •⁠ ⁠Konu:
   • Katlı otoparktaki park yerlerini temsil eden bir sınıf oluşturun.
 
-•⁠  ⁠*Gereklilikler:*  
+  •⁠ ⁠Gereklilikler:
   • Her kat için bir dizi park yerini temsil eden bir yapı oluşturulmalıdır.  
   • Kullanıcı, indeksleyici aracılığıyla belirli bir kat ve park yerine erişebilmelidir.  
   • Park yeri boşsa "Empty", doluysa araç plakasını döndürmelidir.
