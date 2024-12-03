@@ -71,7 +71,7 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 	•	İkinci sürüm: Üç tam sayıyı topla.
 	•	Üçüncü sürüm: Bir dizi (array) tam sayıyı topla.
 
- ### 8. Farklı Şekillerin Alanını Hesaplayan Fonksiyon
+ ### 8. Farklı Şekillerin Alanını Hesaplayan Fonksiyon  
 
         •       Konu: Farklı şekillerin alanını hesaplayan fonksiyon tasarımı.  
         •       Gereklilikler:  
@@ -81,7 +81,7 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 	•	Dikdörtgen Alanı: İki kenar uzunluğu verilerek dikdörtgenin alanı hesaplanır.  
 	•	Daire Alanı: Yarıçap verilerek dairenin alanı hesaplanır.  
 	
- ### 9. Zaman Farkını Farklı Formatlarda Hesaplayan Fonksiyon 
+ ### 9. Zaman Farkını Farklı Formatlarda Hesaplayan Fonksiyon  
 
         •       Konu: Zaman farkını farklı formatlarda hesaplayan fonksiyon tasarımı.  
         •       Gereklilikler:  
@@ -90,7 +90,7 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 	•	İkinci sürüm: İki tarih arasındaki saat farkını döndüren bir fonksiyon.  
 	•	Üçüncü sürüm: İki tarih arasındaki yıl farkını döndüren bir fonksiyon.  
  
- ### 10. Özel Bir Kütüphane Yönetim Sistemi
+ ### 10. Özel Bir Kütüphane Yönetim Sistemi  
 
         •⁠ Konu: Kitap koleksiyonlarını temsil eden bir sınıf oluşturun.  
 
