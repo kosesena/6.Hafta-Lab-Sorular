@@ -77,14 +77,11 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 
         •       Konu: Farklı şekillerin alanını hesaplayan fonksiyon tasarımı.  
 
- 
         •       Gereklilikler:  
 
- 
         •       Aynı isimli bir metot, farklı parametre kombinasyonları ile farklı şekillerin alanını hesaplar.  
 
- 
-	•	Hesaplama Fonksiyonları:  
+        •	Hesaplama Fonksiyonları:  
 
  
 	•	Kare Alanı: Bir kenar uzunluğu verilerek karenin alanı hesaplanır.  
@@ -92,8 +89,7 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
  
 	•	Dikdörtgen Alanı: İki kenar uzunluğu verilerek dikdörtgenin alanı hesaplanır.  
 
- 
-	•	Daire Alanı: Yarıçap verilerek dairenin alanı hesaplanır.  
+        •	Daire Alanı: Yarıçap verilerek dairenin alanı hesaplanır.  
 
  
 	
