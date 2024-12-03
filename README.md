@@ -92,44 +92,34 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
  
  ### 10. Özel Bir Kütüphane Yönetim Sistemi
 
-        •⁠ Konu:  
-        • Kitap koleksiyonlarını temsil eden bir sınıf oluşturun.  
+        •⁠ Konu: Kitap koleksiyonlarını temsil eden bir sınıf oluşturun.  
 
         •⁠ ⁠Gereklilikler:   
         • Kitap koleksiyonunu bir dizi aracılığıyla depolayınız.  
         • Kullanıcı, indeksleyici aracılığıyla kitap adı öğrenebilmeli veya değiştirebilmelidir.    
         • Kullanıcı geçersiz bir indeksle erişim yaparsa uygun bir hata mesajı döndürülmelidir.    
 
----
-
 ### 11. Bir Öğrenci Not Sistemi
 
-       •⁠ ⁠Konu:
-       • Öğrencilerin aldığı derslerin notlarını temsil eden bir sınıf oluşturun.
+       •⁠ ⁠Konu: Öğrencilerin aldığı derslerin notlarını temsil eden bir sınıf oluşturun.
 
        •⁠ Gereklilikler:
        • Derslerin adını ve notlarını depolayan bir yapı oluşturulmalıdır.  
        • Kullanıcı, indeksleyici aracılığıyla ders adına göre notlara erişebilmelidir.  
        • Ders bulunamadığında uygun bir hata mesajı döndürülmelidir.  
 
----
-
 ### 12. Bir Satranç Tahtası Durumu
 
-      •⁠  Konu: 
-      • Satranç tahtasındaki kareleri temsil eden bir sınıf oluşturun.
+      •⁠  Konu: Satranç tahtasındaki kareleri temsil eden bir sınıf oluşturun.
 
       •⁠ ⁠Gereklilikler:
       • 8x8 boyutunda bir satranç tahtası oluşturulmalıdır.  
       • Kullanıcı, indeksleyici aracılığıyla bir kareye taş koyabilmeli veya karedeki taşı öğrenebilmelidir.  
       • Geçersiz bir kareye erişimde uygun bir hata mesajı döndürülmelidir.  
 
----
-
 ### 13. Çok Katmanlı Bir Otopark Sistemi
 
-     •⁠ ⁠Konu:
-     • Katlı otoparktaki park yerlerini temsil eden bir sınıf oluşturun.
+     •⁠ ⁠Konu:Katlı otoparktaki park yerlerini temsil eden bir sınıf oluşturun.
 
      •⁠ ⁠Gereklilikler:
      • Her kat için bir dizi park yerini temsil eden bir yapı oluşturulmalıdır.  
