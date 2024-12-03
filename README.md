@@ -75,13 +75,13 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 
  ### 8. Farklı Şekillerin Alanını Hesaplayan Fonksiyon  
 
-        •       Konu: Farklı şekillerin alanını hesaplayan fonksiyon tasarımı.  
-        •       Gereklilikler:  
+        •       Konu: Farklı şekillerin alanını hesaplayan fonksiyon tasarımı.    
+        •       Gereklilikler:    
         •       Aynı isimli bir metot, farklı parametre kombinasyonları ile farklı şekillerin alanını hesaplar.  
 	•	Hesaplama Fonksiyonları:  
         •	Kare Alanı: Bir kenar uzunluğu verilerek karenin alanı hesaplanır.  
         •	Dikdörtgen Alanı: İki kenar uzunluğu verilerek dikdörtgenin alanı hesaplanır.  
-        •	Daire Alanı: Yarıçap verilerek dairenin alanı hesaplanır.  
+        •	Daire Alanı: Yarıçap verilerek dairenin alanı hesaplanır.    
 
  
 	
@@ -116,7 +116,7 @@ Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların ç�
 
 ### 12. Bir Satranç Tahtası Durumu
 
-      •⁠  Konu: Satranç tahtasındaki kareleri temsil eden bir sınıf oluşturun.
+      •⁠ Konu: Satranç tahtasındaki kareleri temsil eden bir sınıf oluşturun.
 
       •⁠ ⁠Gereklilikler:
       • 8x8 boyutunda bir satranç tahtası oluşturulmalıdır.  
