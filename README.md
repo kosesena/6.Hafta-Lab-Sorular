@@ -1,5 +1,5 @@
 # 6.Hafta-Lab-Sorular
-Bu repo, 6. hafta laboratuvar çalışmaları kapsamında verilen soruların çözümlerini içermektedir.Sorular içeriğine göre Enum, Overloading, Struct ve Tek-Çift boyutlu indeksler şeklinde 4 farklı kategoriye ayrılmış olup,soruların detayları ve ilgili çözümler aşağıda açıklanmıştır.
+Bu repo,Nesne Yönelimli Programlama dersinin 6. hafta laboratuvar çalışmaları kapsamında verilen soruların çözümlerini içermektedir.Sorular içeriğine göre Enum, Overloading, Struct ve Tek-Çift boyutlu indeksler şeklinde 4 farklı kategoriye ayrılmış olup,soruların detayları ve ilgili çözümler aşağıda açıklanmıştır.
 
 ### 1.⁠ ⁠Trafik Işığı Durumu
 
