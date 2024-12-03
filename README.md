@@ -81,3 +81,10 @@ Aynı isimli bir metot, farklı parametre kombinasyonları ile farklı şekiller
 	•	Dikdörtgen Alanı: İki kenar uzunluğu verilerek dikdörtgenin alanı hesaplanır.
 	•	Daire Alanı: Yarıçap verilerek dairenin alanı hesaplanır.
  
+
+### 9. Zaman Farkını Farklı Formatlarda Hesaplayan Fonksiyon 
+
+Aynı ada sahip ancak farklı parametrelerle çalışan birden fazla fonksiyon yazılacaktır:
+	•	İlk sürüm: İki tarih arasındaki gün farkını döndüren bir fonksiyon.
+	•	İkinci sürüm: İki tarih arasındaki saat farkını döndüren bir fonksiyon.
+	•	Üçüncü sürüm: İki tarih arasındaki yıl farkını döndüren bir fonksiyon.
