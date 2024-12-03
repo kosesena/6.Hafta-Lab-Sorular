@@ -3,7 +3,7 @@ Bu repo,Nesne Yönelimli Programlama dersinin 6. hafta laboratuvar çalışmalar
 
 ### 1.⁠ ⁠Trafik Işığı Durumu
 
-	•	Konu: Trafik ışıklarının (Red, Yellow, Green) durumlarını temsil eden bir # enum oluşturulması.
+	•	Konu: Trafik ışıklarının (Red, Yellow, Green) durumlarını temsil eden bir **enum** oluşturulması.
 	•	Gereklilikler:
 	•	Trafik ışığı durumlarını temsil eden bir enum oluşturun.
 	•	Enum değerine göre yapılması gereken işlemi döndüren bir metot yazın.
@@ -13,7 +13,7 @@ Bu repo,Nesne Yönelimli Programlama dersinin 6. hafta laboratuvar çalışmalar
 
 ### 2.⁠ ⁠Hava Durumu Tahmini
 
-	•	Konu: Hava durumu tiplerini temsil eden bir #enum# oluşturulması.
+	•	Konu: Hava durumu tiplerini temsil eden bir **enum**oluşturulması.
 	•	Gereklilikler:
 	•	Hava durumu tiplerini (Sunny, Rainy, Cloudy, Stormy) temsil eden bir enum oluşturun.
 	•	Enum değerine göre hava durumu tavsiyesi veren bir metot yazın.
@@ -26,7 +26,7 @@ Bu repo,Nesne Yönelimli Programlama dersinin 6. hafta laboratuvar çalışmalar
 
 	•	Konu: Çalışan rolleri için bir enum oluşturulması ve maaş hesaplama.
 	•	Gereklilikler:
-	•	Çalışan rolleri (Manager, Developer, Designer, Tester) için bir #enum# oluşturun.
+	•	Çalışan rolleri (Manager, Developer, Designer, Tester) için bir **enum** oluşturun.
 	•	Enum’a göre maaşı döndüren bir metot yazın.
 	•	Manager → 15000 TL
 	•	Developer → 12000 TL
@@ -37,7 +37,7 @@ Bu repo,Nesne Yönelimli Programlama dersinin 6. hafta laboratuvar çalışmalar
 
 	•	Konu: Saat ve dakika bilgilerini tutan bir struct oluşturulması.
 	•	Gereklilikler:
-	•	Saat ve dakikayı temsil eden bir #struct# oluşturun (Hour ve Minute özellikleri).
+	•	Saat ve dakikayı temsil eden bir **struct** oluşturun (Hour ve Minute özellikleri).
 	•	Eğer saat/dakika geçersiz girilirse, bu değerleri otomatik olarak 0 yapın.
 	•	Aşağıdaki işlemleri gerçekleştiren metotlar ekleyin:
 	•	Toplam dakika değerini hesaplayan bir metot.
@@ -45,7 +45,7 @@ Bu repo,Nesne Yönelimli Programlama dersinin 6. hafta laboratuvar çalışmalar
 
 ### 5.⁠ ⁠Karmaşık Sayı Hesaplama
 
-	•	Konu: Karmaşık sayıları temsil eden bir #struct# oluşturulması.
+	•	Konu: Karmaşık sayıları temsil eden bir **struct** oluşturulması.
 	•	Gereklilikler:
 	•	Karmaşık sayılar için Real ve Imaginary özellikleri olan bir struct oluşturun.
 	•	Aşağıdaki işlemleri gerçekleştiren metotlar ekleyin:
@@ -55,7 +55,7 @@ Bu repo,Nesne Yönelimli Programlama dersinin 6. hafta laboratuvar çalışmalar
 
 ### 6.⁠ ⁠GPS Konum Mesafesi
 
-	•	Konu: İki GPS konumu arasındaki mesafeyi hesaplayan bir #struct# oluşturulması.
+	•	Konu: İki GPS konumu arasındaki mesafeyi hesaplayan bir **struct** oluşturulması.
 	•	Gereklilikler:
 	•	Enlem (Latitude) ve boylam (Longitude) bilgilerini tutan bir struct oluşturun.
 	•	İki GPS konumu arasındaki mesafeyi kilometre cinsinden hesaplayan bir metot ekleyin.
